@@ -1,0 +1,11 @@
+{
+  "embedding_model": "all-MiniLM-L6-v2",
+  "chunk_size": 500,
+  "chunk_overlap": 50,
+  "vector_store_path": "C:\\Users\\user\\Documents\\rag assistent project\\data\\vector_store",
+  "collection_name": "lecture_chunks",
+  "top_k_default": 3,
+  "llm_model": "llama3.2",
+  "num_documents": 3,
+  "num_chunks": 224
+}
