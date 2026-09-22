@@ -127,11 +127,6 @@ Backend (backend/.env, optional - all have working defaults):
 | LLM_MODEL | llama3.2 | Ollama model used for generation |
 | TOP_K | 3 | Number of chunks retrieved per query |
 
-Frontend (frontend/.env, required):
-
-| Variable | Default | Description |
-|---|---|---|
-| API_BASE_URL | http://localhost:8000 | URL of the running backend |
 
 ## API Reference
 
